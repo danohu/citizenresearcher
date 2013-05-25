@@ -1,0 +1,13 @@
+*.pyc
+*.swp
+*.swo
+*.db
+_build/
+build/
+dist/
+*.egg-info/
+.project
+.pydevproject
+local.py
+.ropeproject
+tags
